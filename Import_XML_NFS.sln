@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Import_XML_NFS", "Import_XML_NFS\Import_XML_NFS.csproj", "{3844AD90-34C6-4C5F-A5FB-C0D329F2B698}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3844AD90-34C6-4C5F-A5FB-C0D329F2B698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3844AD90-34C6-4C5F-A5FB-C0D329F2B698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3844AD90-34C6-4C5F-A5FB-C0D329F2B698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3844AD90-34C6-4C5F-A5FB-C0D329F2B698}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {615E5CD8-6F71-411A-B181-C958BFB20C94}
+	EndGlobalSection
+EndGlobal
